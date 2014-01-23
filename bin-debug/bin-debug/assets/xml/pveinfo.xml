@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+	id
+	map 地图资源
+-->
+	<pve id="1" map="assets/res/map/map_1.swf"/>
+	<pve id="2" map="assets/res/map/map_2.swf"/>
+	
+</root>

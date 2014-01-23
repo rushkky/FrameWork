@@ -1,0 +1,103 @@
+0?	*ÜHÜ˜†Ç???10	+ 0??	*ÜHÜ˜†Ç????xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppIDName</key>
+	<string>OOXX</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+		<string>N2F8Q9NN7S</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2013-11-16T08:48:20Z</date>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>
+		MIIF5zCCBM+gAwIBAgIIRJeRU8Bj9xMwDQYJKoZIhvcNAQEFBQAwgZYxCzAJ
+		BgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBs
+		ZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBw
+		bGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlv
+		biBBdXRob3JpdHkwHhcNMTMwODIwMDgwNDAwWhcNMTQwODIwMDgwNDAwWjCB
+		2jEaMBgGCgmSJomT8ixkAQEMCk4yRjhROU5ON1MxXTBbBgNVBAMMVGlQaG9u
+		ZSBEaXN0cmlidXRpb246IFNoYW5naGFpIFNoZW5nemhhbiBOZXR3b3JraW5n
+		IFRlY2hub2xvZ3kgQ28uLCBMdGQuIChOMkY4UTlOTjdTKTETMBEGA1UECwwK
+		TjJGOFE5Tk43UzE7MDkGA1UECgwyU2hhbmdoYWkgU2hlbmd6aGFuIE5ldHdv
+		cmtpbmcgVGVjaG5vbG9neSBDby4sIEx0ZC4xCzAJBgNVBAYTAkNOMIIBIjAN
+		BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzUe68OLwnUzfI+VGYR8qe2mP
+		l6/Lt7L8sgJisloDEhblsxtOOrShmu7snxPOAZhaGx8fcbzv+XCTROJX0RDA
+		2ehsndPlyrjy+MBvR8QyobKiIQqmv3QqsiPFwdNl27l+nebfr0jvy+GgJWoX
+		Cl5pRlxpPIMA7ZIkn8RxPZBqfmmaLcBb3k94uNBT52CHiAr3wpLeO6CkoiiP
+		ii/dIomh4in3cieB0uhvu8Nk1XBx/JyRU07aveP4rgl3SIB43NkkDAPjSNm6
+		lw1Rl7jxsH93EnOWipCRTg6TWli7pom8BMW4vw3ewoCeE6bB/em8FWUT6Dtk
+		sLJn9NZfZ20auM5QXQIDAQABo4IB8TCCAe0wHQYDVR0OBBYEFKyjsGlSroed
+		J0Vh4bpw5HGrffmzMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUiCcXCam2
+		GGCL7Ou69kdZxVJUo7cwggEPBgNVHSAEggEGMIIBAjCB/wYJKoZIhvdjZAUB
+		MIHxMIHDBggrBgEFBQcCAjCBtgyBs1JlbGlhbmNlIG9uIHRoaXMgY2VydGlm
+		aWNhdGUgYnkgYW55IHBhcnR5IGFzc3VtZXMgYWNjZXB0YW5jZSBvZiB0aGUg
+		dGhlbiBhcHBsaWNhYmxlIHN0YW5kYXJkIHRlcm1zIGFuZCBjb25kaXRpb25z
+		IG9mIHVzZSwgY2VydGlmaWNhdGUgcG9saWN5IGFuZCBjZXJ0aWZpY2F0aW9u
+		IHByYWN0aWNlIHN0YXRlbWVudHMuMCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3
+		LmFwcGxlLmNvbS9hcHBsZWNhLzBNBgNVHR8ERjBEMEKgQKA+hjxodHRwOi8v
+		ZGV2ZWxvcGVyLmFwcGxlLmNvbS9jZXJ0aWZpY2F0aW9uYXV0aG9yaXR5L3d3
+		ZHJjYS5jcmwwDgYDVR0PAQH/BAQDAgeAMBYGA1UdJQEB/wQMMAoGCCsGAQUF
+		BwMDMBMGCiqGSIb3Y2QGAQQBAf8EAgUAMA0GCSqGSIb3DQEBBQUAA4IBAQAy
+		TKFHPmxYPYWcQ1xQdDHEGnoe2L2k+rgGOSruHdk2N2VUeLYiAGW33O26a6X2
+		J5e2ls7iyFsGvAZkKrYI3ChKLUwL/p92AMp8c7sFlnFKldLkVb1DVmJNj0a7
+		LXmkbv26ycevy24b/9FnwnKPJeGF5wlwVmnVHpPQgNz/T+MpbmTzwOoL+i/a
+		NgoLOapZ19QxyqXVeH7i8hBU26D3Z1B5fe6zkK2QacotGsp9oujeUMfnKXnM
+		Wgv6NpxVSk4WEe8VZoNhRgeo8OnfPC9RaYZGlybDjJGnfEoEav1dH9gVhwoX
+		glFoGlGk/exydwFJurxBF8e9GUHl6YZfkd0Vw14R
+		</data>
+	</array>
+	<key>Entitlements</key>
+	<dict>
+		<key>application-identifier</key>
+		<string>123456ooxx</string>
+		<key>get-task-allow</key>
+		<false/>
+		<key>keychain-access-groups</key>
+		<array>
+			<string>N2F8Q9NN7S.*</string>
+		</array>
+	</dict>
+	<key>ExpirationDate</key>
+	<date>2014-08-19T08:48:20Z</date>
+	<key>Name</key>
+	<string>hoc_oooxx</string>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>N2F8Q9NN7S</string>
+	</array>
+	<key>TeamName</key>
+	<string>Shanghai Shengzhan Networking Technology Co., Ltd.</string>
+	<key>TimeToLive</key>
+	<integer>276</integer>
+	<key>UUID</key>
+	<string>A1F9646C-D5F6-4040-B1D4-F3D0A7307541</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
+†Ç????·†0	*ÜHÜ˜ 0y10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority1-0+U$Apple iPhone Certification Authority0080521020415Z200521020415Z0Y10	UUS10U
+
+Apple Inc.1503U,Apple iPhone OS Provisioning Profile Signing0?"0	*ÜHÜ˜ ? 0?
+? ?ñ∂—¸Ω|Ñ¬˝k9‘`ÃŒN:⁄ABûçî©gÜäÒF?i%«øÛ≥à›»•©…•ãB9X9¥ä€@˙t§¨uW!ç€Ÿ™?æ‰?? ?7¿ ?v˚ÊP?gúè°Û\»ùx¶≠ÄÆ◊
+¥Ñöÿé‘¥nÙI?é|?¬ít(≤|+??U ™g°ÓLT¶û‰Ä/·√6G?V§ùîÔ•P‚d §‚≤ΩúvÛÆÍÑs–è?3◊ê??æÉ ??ß@·Ü??]}?èo¶ƒ]c0!çïíÏ—U?cèf?Ñgpºô??v:@o?; £Å?Å®0UÄ0Uˇ0 0*ÜHÜ˜cd 0U÷„&Jh?Ω¯?!?¬Ul0U#0Ä?*."?`k¥îŒwÉa/1†|508U10/0-???http://www.apple.com/appleca/iphone.crl0	*ÜHÜ˜ ? #ﬂπ√ç?d?]B?óÄ??»¿mıÜ?^ÁƒUTX?]SA˘‹µwó¥wìÑ9_ﬂ{b)uΩÏ¯≤{ê˜?Høl*1‡«[$@£ò?öìpj‹ÌG∂e;¸âãfEFåﬁK∂pm∫ß?O£l€OOBò|?ÄÕ∂∞Ï‘Yj?M˙•‰Ω?≤π?1DÛíHt??çO˚t?;,
+ﬁe)?ÍîJoxAA??öÒi‘·-?∂â¿ø÷ï∑Ö∑∆B?È˙Ù‰q∑Y€a13RtQ7ÜëIpæÛ&º’X∞ÔZÖÏVÀ¥°Æıàl?'%ﬂÁ?‰z!f????€†0	*ÜHÜ˜ 0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10UApple Root CA0070412174328Z220412174328Z0y10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority1-0+U$Apple iPhone Certification Authority0?"0	*ÜHÜ˜ ? 0?
+? ?æG¿¥?[F§∏!∏O?p(E`\√»
+dcà˚¸iÓ¯T¸È[?N/√k3ØDLÍKÄ	¥áˆ[¥˝d›≥r?≥˝ŸºÁ®Ì¬åa?˘ÏŒ•^÷iÎd?è∏†PF	?‰Â∞îmª˜ôòƒËõAN‘Òe?Rz‹ËŸn?UÜ§)XIÍG?43ˆ¿†DJp??07?Î—‰l?UV?+XÍD?ÖÓ»fJ‰œâ=c?ﬁ≠∫Z≥‹•£öß	NÄ5e§Öc{>cä⁄}JFÏ£94π∆(e?`?W?…âÌ°∂áhR∂ÑN∏»ÉÏ˘û´≥?Ü«? £Å?Åô0Uˇ?Uˇ0ˇ0U?*."?`k¥îŒwÉa/1†|50U#0Ä+–iGîv	˛Ùk?@¶˜GM^06U/0-0+???http://www.apple.com/appleca/root.crl0	*ÜHÜ˜ ? —’{›tN?¸Ç-ôõ^BrÚi‹’k^kK>{%ﬁ≥îË†˙ÄâÚ= ¢ëëætW‹Øöü?}0? *?YÎ˝I¨nuËöz—ÜˆÁˆ∞KI˙£∑A∫◊—„V°}É´óÆ¯QJ&¡ÖB&?Tf^`?1+kT¿†»AºTÁT? “J«ª¡äØÅéF
+?¶æ‹œ9:Äp#2£kf]ûM®GI≤{EµQ3ßtg	N∂loH??DkEætKo≤Üë¥>%(%û≥¬QÜ¸OÂØ;™ªD,I‚t?˙D???Qâ”JAlXVﬁõ:?WÂbœ“0???¢†0	*ÜHÜ˜ 0ÅÜ10	UUS10U
+Apple Computer, Inc.1-0+U$Apple Computer Certificate Authority1)0'U Apple Root Certificate Authority0050210001814Z250210001814Z0ÅÜ10	UUS10U
+Apple Computer, Inc.1-0+U$Apple Computer Certificate Authority1)0'U Apple Root Certificate Authority0?"0	*ÜHÜ˜ ? 0?
+? ‰ë?ë€GP?Ì^y??¢WLUÏãâﬁ˘Kl??0?>¯P	?A®ò˘— f?k–£ª‰*?ïûz§Gã[?73ÀƒM?i—…rı]?_õÚ%∫UèM]Òd5#KY≥î˜ˆúûœP∫¡XPg??˜À? op?0å∑C???I(»˛Œµ?Ÿ^÷À=?≠Ù ??.t?€b´£qíGSU¡Ø/A≥¯˚„pÕÊ£LE~LkPñAâƒtbÉA?äÅ?XÏZ2åh≥èﬁesˇg^eºIÿv?e°wî…- £Ç/0?+0Uˇ0Uˇ0ˇ0U+–iGîv	˛Ùk?@¶˜GM^0U#0Ä+–iGîv	˛Ùk?@¶˜GM^0?)U ? 0?0?	*ÜHÜ˜cd0?	0A+5https://www.apple.com/certificateauthority/terms.html0Å√+0Å∂Å≥Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0DU=0;09???https://www.apple.com/certificateauthority/root.crl0U+I0G0E+0?https://www.apple.com/certificateauthority/casigners.html0	*ÜHÜ˜ ? ù⁄-(X/}v??Œ∑fcN?‘˛K≠rΩ£9∆RMòRıâQ$y?2˜ÂDãKD9Ç÷Z ¥ ^ŸÆ]?2?1bH]«·ê±?@¯_XõQ]Wù¡?<Ãr!nƒÈÈ°w?&?Îö?∫È≥Jr?	[≠Êb1jËØ/’ØWv?7-.\›c…Úq?@?çuD?yΩÊô·C,>≠oæπ§˛5Qc±√ﬁµ?Qxsä§# §àÒ\A-~?™ÈâA?›À øG^&≈U5M?ãôg?∫G«⁄	?BïΩ`
+ÔÍnÕ¡DC:J’„1?Y0?U0~0y10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority1-0+U$Apple iPhone Certification Authority0	+ †Å?	*ÜHÜ˜	1	*ÜHÜ˜0	*ÜHÜ˜	1131116084820Z0#	*ÜHÜ˜	1Ïí?îÜ¢Ã(úê??é@0R	*ÜHÜ˜	1E0C0
+*ÜHÜ˜0*ÜHÜ˜ Ä0*ÜHÜ˜@0+0*ÜHÜ˜(0	*ÜHÜ˜ ? `Ií⁄Põ¡sâü’·.-…°›π*eAyi∏Oæó?JÁôó¥]?tMe&?ƒπ?k˝V£É“?o??Ö‰QÎò}ß¢¥JΩH*kdVëÇ?]{™∑∂[≥V¨}8?K+?øLnÏa+?Ã©ΩPÀrRZÛA1ÅB.áf?⁄^@_ô“NŸö˚Ça¥LG%A??“yã®¬·Âåƒ–?˛â?Q`”≠óL1R`P?s??	Ût?ˆX?ª˘"Øè4	L?'kŒò	éa|Z›’?J?}X~(?∂ÍHÎ¬l?†õ*7mÃ„
+?
